@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec4c39d0-ab68-4f7e-b91e-ce5a416859b4" name="Default" comment="Attempting to remove .idea folder">
+    <list default="true" id="ec4c39d0-ab68-4f7e-b91e-ce5a416859b4" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path=".idea/" />
@@ -28,19 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dbSettings.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="dbSettings.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/dbSettings.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="28" selection-start="136" selection-end="136" vertical-scroll-proportion="-2.8387096" vertical-offset="0" max-vertical-offset="220">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="38" selection-start="888" selection-end="888" vertical-scroll-proportion="0.59965926" vertical-offset="0" max-vertical-offset="11352">
+            <state line="4" column="19" selection-start="127" selection-end="127" vertical-scroll-proportion="0.15465729" vertical-offset="0" max-vertical-offset="569">
               <folding />
             </state>
           </provider>
@@ -77,6 +68,7 @@
         <option value="$PROJECT_DIR$/src/dbSettings.php" />
         <option value="$PROJECT_DIR$/src/mysqldump.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -350,7 +342,11 @@
       <created>1386525431363</created>
       <updated>1386525431363</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Attempting to remove .idea folder">
+      <created>1386525487899</created>
+      <updated>1386525487899</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -507,16 +503,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dbSettings.php">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="28" selection-start="136" selection-end="136" vertical-scroll-proportion="-2.8387096" vertical-offset="0" max-vertical-offset="220">
+        <state line="16" column="38" selection-start="850" selection-end="850" vertical-scroll-proportion="0.59965926" vertical-offset="0" max-vertical-offset="11704">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/src/dbSettings.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="38" selection-start="888" selection-end="888" vertical-scroll-proportion="0.59965926" vertical-offset="0" max-vertical-offset="11352">
+        <state line="4" column="19" selection-start="127" selection-end="127" vertical-scroll-proportion="0.15465729" vertical-offset="0" max-vertical-offset="569">
           <folding />
         </state>
       </provider>
