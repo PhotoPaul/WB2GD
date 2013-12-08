@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec4c39d0-ab68-4f7e-b91e-ce5a416859b4" name="Default" comment="Attempting to remove .idea folder">
+    <list default="true" id="ec4c39d0-ab68-4f7e-b91e-ce5a416859b4" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tmp/debug.txt" afterPath="$PROJECT_DIR$/src/tmp/debug.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/" />
     <ignored path="AlienCode/" />
@@ -43,7 +43,7 @@
       <file leaf-file-name="debug.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/tmp/debug.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="35" selection-start="443" selection-end="443" vertical-scroll-proportion="0.5824847" vertical-offset="0" max-vertical-offset="491">
+            <state line="14" column="0" selection-start="444" selection-end="444" vertical-scroll-proportion="0.62729126" vertical-offset="0" max-vertical-offset="491">
               <folding />
             </state>
           </provider>
@@ -447,7 +447,11 @@
       <created>1386527306870</created>
       <updated>1386527306870</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Attempting to remove .idea folder">
+      <created>1386527403510</created>
+      <updated>1386527403510</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -619,7 +623,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tmp/debug.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="35" selection-start="443" selection-end="443" vertical-scroll-proportion="0.5824847" vertical-offset="0" max-vertical-offset="491">
+        <state line="14" column="0" selection-start="444" selection-end="444" vertical-scroll-proportion="0.62729126" vertical-offset="0" max-vertical-offset="491">
           <folding />
         </state>
       </provider>
