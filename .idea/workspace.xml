@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec4c39d0-ab68-4f7e-b91e-ce5a416859b4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="ec4c39d0-ab68-4f7e-b91e-ce5a416859b4" name="Default" comment="Attempting to remove .idea folder">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path=".idea/" />
     <ignored path="AlienCode/" />
@@ -415,7 +415,11 @@
       <created>1386526743112</created>
       <updated>1386526743112</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Attempting to remove .idea folder">
+      <created>1386526750042</created>
+      <updated>1386526750042</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
