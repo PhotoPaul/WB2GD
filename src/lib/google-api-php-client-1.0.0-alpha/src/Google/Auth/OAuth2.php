@@ -15,14 +15,14 @@
  * limitations under the License.
  */
 
-require_once "Google/Auth/Abstract.php";
-require_once "Google/Auth/AssertionCredentials.php";
-require_once "Google/Auth/Exception.php";
-require_once "Google/Auth/LoginTicket.php";
-require_once "Google/Client.php";
-require_once "Google/Http/Request.php";
-require_once "Google/Utils.php";
-require_once "Google/Verifier/Pem.php";
+require_once "Abstract.php";
+require_once "AssertionCredentials.php";
+require_once "Exception.php";
+require_once "LoginTicket.php";
+require_once "../Client.php";
+require_once "../Http/Request.php";
+require_once "../Utils.php";
+require_once "../Verifier/Pem.php";
 
 /**
  * Authentication class that deals with the OAuth 2 web-server authentication flow
