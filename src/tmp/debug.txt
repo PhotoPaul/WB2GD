@@ -1,0 +1,14 @@
+mysqldump started
+
+Contents of tmp/lastfilesize.txt: -1
+Filesize of tmp/tmp.sql.bz2: 561152
+Contents of tmp/lastfilesize.txt: 561152
+Filesize of tmp/tmp.sql.bz2: 1748992
+Contents of tmp/lastfilesize.txt: 1748992
+Filesize of tmp/tmp.sql.bz2: 2625536
+Contents of tmp/lastfilesize.txt: 2625536
+Filesize of tmp/tmp.sql.bz2: 2791570
+Contents of tmp/lastfilesize.txt: 2791570
+Filesize of tmp/tmp.sql.bz2: 2791570
+
+Deleting file: tmp/lastfilesize.txt
